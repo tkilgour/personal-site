@@ -1,0 +1,54 @@
+body {
+  background-color: #F2F2F3;
+  font-family: 'Comfortaa', cursive;
+  margin: 0;
+}
+
+#name {
+  margin: 100px 0 0 10px;
+  color: #EE4B3E;
+  /*text-align: center;*/
+  font-size: 96px;
+  font-weight: normal;
+}
+
+#typed {
+  color: #1FDA9A;
+  font-weight: normal;
+  font-size: 46px;
+  margin: 10px 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#typed-strings {
+  color: #1FDA9A;
+  font-weight: normal;
+  font-size: 46px;
+  margin: 10px 50px;
+  font-family: 'Open Sans', sans-serif;
+  display: none;
+}
+
+.fa-github-square {
+  width: auto;
+  height: auto;
+  position: fixed;
+  right: 20px;
+  top: 55%;
+  color: black;
+}
+
+.fa-linkedin-square {
+  width: auto;
+  height: auto;
+  position: fixed;
+  right: 20px;
+  top: 45%;
+  color: black;
+}
+
+
+
+#github:hover {
+
+}
